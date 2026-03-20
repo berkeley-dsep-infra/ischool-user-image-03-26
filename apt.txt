@@ -1,0 +1,14 @@
+fonts-symbola
+libx11-xcb1
+libxtst6
+libpangocairo-1.0-0
+libgtk-3-0
+
+libxss1
+nodejs
+npm
+
+texlive-fonts-extra
+texlive-latex-extra
+htop
+nano
